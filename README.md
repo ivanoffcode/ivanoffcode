@@ -43,11 +43,10 @@ I'm eager to dive into real-world software challenges, contribute to meaningful 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,gradle,maven,html,css,bootstrap,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,gradle,maven,html,css,bootstrap,postman,aws,heroku,github" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,heroku,github" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lombok-red?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
