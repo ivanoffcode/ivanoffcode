@@ -9,12 +9,12 @@ One of my proudest achievements is **[MoneyMe – Virtual Wallet](https://github
 
 I'm eager to dive into real-world software challenges, contribute to meaningful projects, and keep sharpening my skills.
 
-
+- 📫 How to reach me fast: [ivanovivanbusiness@gmail.com](mailto:ivanovivanbusiness@gmail.com)
 - 🌱 I’m currently mastering my Spring knowledge.
-- ⚡ Fun facts:  
-  I love to code like I love lifting weights — **until failure**.  
-  Movies and video games are another passions of mine.
----
+## ⚡ Fun Facts
+
+🏋️ I love to code like I love lifting weights — **until failure**.  
+🎬 Movies and 🎮 video games are other passions of mine.
 
 ## 📫 Connect with Me
 <p align="left">
