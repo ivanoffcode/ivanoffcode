@@ -2,7 +2,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ivanoffcode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanoffcode" />
 </p>
-<p align="center"><strong>Passionate Junior Java Developer from Bulgaria, actively looking for a role focused on Java and/or Spring Boot.</strong></p>
+<h2 align="center">
+  <strong>
+    Passionate Junior Java Developer from Bulgaria, actively looking for a role focused on Java and/or Spring Boot.
+  </strong>
+</h2>
+
 
 As a graduate of the Telerik Academy Java Alpha Track, I’ve developed a strong foundation in Java OOP, data structures, and Spring framework.
 
