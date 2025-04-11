@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ivan</h1>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ivanoffcode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanoffcode" />
+</p>
 
 I'm a passionate Junior Java developer from Bulgaria, actively looking for a Junior Java Developer role with a focus on Java and/or Spring Boot.  
 As a graduate of the Telerik Academy Java Alpha Track, I’ve developed a strong foundation in Java OOP, data structures, and Spring framework.
@@ -42,7 +43,16 @@ I'm eager to dive into real-world software challenges, contribute to meaningful 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,gradle,html,css,bootstrap,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,gradle,maven,html,css,bootstrap,postman" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,heroku,github" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lombok-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ---
@@ -51,8 +61,10 @@ I'm eager to dive into real-world software challenges, contribute to meaningful 
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanoffcode&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoffcode&layout=compact&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanoffcode&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
----
 
 
 
