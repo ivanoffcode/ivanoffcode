@@ -1,14 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Ivan</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanoffcode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanoffcode" />
-</p>
 <h2 align="center">
   <strong>
     Passionate Junior Java Developer from Bulgaria, actively looking for a role focused on Java and/or Spring Boot.
   </strong>
 </h2>
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ivanoffcode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanoffcode" />
+</p>
 As a graduate of the Telerik Academy Java Alpha Track, I’ve developed a strong foundation in Java OOP, data structures, and Spring framework.
 
 One of my proudest achievements is **[MoneyMe – Virtual Wallet](https://github.com/TelerikAcademyJavaA68Team2/VirtualWallet)**, a group project where we built a fully functional virtual wallet web app using Spring Boot and Thymeleaf.
