@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ivan</h1>
 <h2 align="center">
   <strong>
-    Passionate Junior Java Developer from Bulgaria, focused on Back End Development with Java and/or Spring Boot.
+    Passionate Java Developer from Bulgaria, focused on Back End Development with Java and/or Spring Boot.
   </strong>
 </h2>
 <p align="center">
